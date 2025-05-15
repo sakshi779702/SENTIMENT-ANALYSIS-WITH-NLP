@@ -49,3 +49,14 @@ Conclusion:
 This project demonstrates how text data can be transformed into meaningful insights using machine learning techniques. By combining TF-IDF vectorization with Logistic Regression, we have built an efficient and interpretable sentiment classification model. The project is designed to be extendable to larger datasets and more advanced algorithms, making it an excellent starting point for anyone interested in text analytics and natural language processing.
 
 OUTPUT:
+Accuracy: 0.0
+Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       2.0
+           1       0.00      0.00      0.00       0.0
+
+    accuracy                           0.00       2.0
+   macro avg       0.00      0.00      0.00       2.0
+weighted avg       0.00      0.00      0.00       2.0
+
